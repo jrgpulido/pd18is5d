@@ -1,6 +1,5 @@
 # pd18is5d
 
-
 ## Proyecto integrador
 ### Programación distribuida
 #### Ingeniería de Software
