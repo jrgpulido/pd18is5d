@@ -9,8 +9,8 @@ eliminar:
 2. artículos: al, del, lo, el, la, los, las, uno, una, unos, unas
 3. proposiciones: a, ante, ..., tras, versus, y vía
 
-ejemplo
-1jrgp.lex
-2jrgp.lex
+ejemplo: 
+1jrgp.lex, 
+2jrgp.lex, 
 3jrgp.lex
 
