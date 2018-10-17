@@ -5,9 +5,9 @@ crear un lexicon por ejercicio,
 éste es un listado de palabras sin repetir ordenados alfabéticamente
 
 eliminar:
--números: 0...9
--artículos: al, del, lo, el, la, los, las, uno, una, unos, unas
--proposiciones: a, ante, ..., tras, versus, y vía
+1. números: 0...9
+2. artículos: al, del, lo, el, la, los, las, uno, una, unos, unas
+3. proposiciones: a, ante, ..., tras, versus, y vía
 
 ejemplo
 1jrgp.lex
