@@ -1,5 +1,5 @@
-#[new] PENDIENTE 
-##esperar instrucciones
+[new] PENDIENTE 
+esperar instrucciones
 #
 #
 #
