@@ -1,8 +1,8 @@
-[new] PENDIENTE 
-esperar instrucciones
-
-
-
+#[new] PENDIENTE 
+##esperar instrucciones
+#
+#
+#
 Diseñar y escribir clases y usaClase para cada uno de los siguientes ejercicios.
 Usar la misma convención de nombres definida en el archivo read.me.
 
